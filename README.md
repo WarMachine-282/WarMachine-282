@@ -1,7 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/userupload/6249438/file/original-ea88751591a177ba1ea073a543cd2dac.png?compress=1&resize=1852x)](https://web-factory.net/)
 <h1 align="center">Hello 👋, I'm Christian Van Loon</h1>
 <h3 align="center">A fullstack developer from California</h3>
-<img align="right" alt="Web-Factory" width="1000" src="https://cdn.dribbble.com/userupload/6249380/file/original-48c990670fe3d5bba893cee5227020bc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warmachine-282&label=Profile%20views&color=0e75b6&style=flat" alt="warmachine-282" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warmachine-282" alt="warmachine-282" height="200" width="500"/></a> </p>
 
