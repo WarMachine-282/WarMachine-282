@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Christian Van Loon</h1>
 <h3 align="center">A fullstack developer from California</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warmachine-282&label=Profile%20views&color=0e75b6&style=flat" alt="warmachine-282" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warmachine-282" alt="warmachine-282" height="200" width="500"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warmachine-282&theme=darkhub" alt="warmachine-282" height="200" width="500"/></a> </p>
 
 - 🔭 I am a co-founder and lead engineer at [Web Factory LLC](https://web-factory.net/)
 
