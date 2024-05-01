@@ -1,6 +1,6 @@
 <div align="center">
 
-[![MasterHead](https://cdn.dribbble.com/userupload/6249438/file/original-ea88751591a177ba1ea073a543cd2dac.png?compress=1&resize=1852x)](https://web-factory.net/)
+[![](https://cdn.dribbble.com/userupload/6249438/file/original-ea88751591a177ba1ea073a543cd2dac.png?compress=1&resize=1852x)](https://web-factory.net/)
 
 # Hello 👋, I'm Christian Van Loon
 
