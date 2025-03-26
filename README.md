@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ### About Me
 - 🔭 I’m a co-founder and lead engineer at [Web Factory LLC](https://web-factory.net/).
 - 🌱 Passionate about building scalable web solutions and exploring new tech stacks.
@@ -20,7 +18,6 @@
 ### Connect with Me
 <p align="center">
   <a href="https://codepen.io/warmachine-282" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" alt="CodePen" height="30" width="40" style="margin: 5px;" /></a>
-  <a href="https://dev.to/warmachine-282" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devto/devto-original.svg" alt="Dev.to" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://www.linkedin.com/in/christian-van-loon-6b47731ab/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://stackoverflow.com/users/your-user-id/christian-van-loon" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://facebook.com/christian.vanloon.7" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" style="margin: 5px;" /></a>
