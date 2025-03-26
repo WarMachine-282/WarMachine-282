@@ -4,13 +4,6 @@
 
 # Hello 👋, I'm Christian Van Loon
 
-### A Full-Stack Developer from California
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=warmachine-282&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=warmachine-282&theme=darkhub&margin-w=15&column=6" alt="GitHub Trophies" height="150" />
-</p>
-
 </div>
 
 ---
