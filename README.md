@@ -11,7 +11,7 @@
 - 🌱 Passionate about building scalable web solutions and exploring new tech stacks.
 - 📫 Reach me at: **christian@web-factory.net**.
 - 📄 Check out my experience: [LinkedIn](https://www.linkedin.com/in/christian-van-loon-6b47731ab/).
-- ⚡ Fun fact: **I have a Bearded Dragon named Jerry who’s basically my co-founder.**
+- ⚡ Fun fact: **I have a Bearded Dragon named Jerry.**
 
 ---
 
