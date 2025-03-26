@@ -11,10 +11,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=warmachine-282&theme=darkhub&margin-w=15&column=6" alt="GitHub Trophies" height="150" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=warmachine-282&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
 </div>
 
 ---
@@ -30,7 +26,7 @@
 
 ### Connect with Me
 <p align="center">
-  <a href="https://codepen.io/warmachine-282" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="CodePen" height="30" width="40" style="margin: 5px;" /></a>
+  <a href="https://codepen.io/warmachine-282" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" alt="CodePen" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://dev.to/warmachine-282" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devto/devto-original.svg" alt="Dev.to" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://www.linkedin.com/in/christian-van-loon-6b47731ab/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://stackoverflow.com/users/your-user-id/christian-van-loon" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="40" style="margin: 5px;" /></a>
@@ -45,7 +41,7 @@
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 5px;" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" style="margin: 5px;" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 5px;" /></a>
@@ -63,7 +59,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin: 5px;" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 5px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="margin: 5px;" /></a>
   <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" style="margin: 5px;" /></a>
